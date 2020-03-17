@@ -1,6 +1,6 @@
 # Below code is used to set backend only
 s3_bucket                       	=	"terraform-r1soft-otabek"
-s3_folder_region                	=	"us-east-1"
+s3_folder_region                	=	"us-west-2"
 vpc_id		    	            	=	"vpc-62e3b918"
 zone_id			                    =	"Z213MZYEBSCBM7" 
 domain			                    =	"otabeks.com"
